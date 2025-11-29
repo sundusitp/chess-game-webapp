@@ -19,7 +19,7 @@ A browser-based chess game built with HTML, CSS, and JavaScript.
 3. Start playing!
 
 ## Screenshots
-![Chess Board Screenshot](images/screenshot1.png)  <!-- ถ้ามีภาพใส่ในโฟลเดอร์ images -->
+![Chess Board Screenshot](img/screenshot1.png)
 
 ## Author
 - Name: [Sundusit Pumpeda]
