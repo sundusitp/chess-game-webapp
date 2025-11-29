@@ -22,5 +22,5 @@ A browser-based chess game built with HTML, CSS, and JavaScript.
 ![Chess Board Screenshot](images/screenshot1.png)  <!-- ถ้ามีภาพใส่ในโฟลเดอร์ images -->
 
 ## Author
-- Name: [Your Name]
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- Name: [Sundusit Pumpeda]
+- GitHub: [https://github.com/sundusitp](https://github.com/sundusitp)
